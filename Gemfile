@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gemspec
 
-gem 'sqlite3', '~> 1.3.8', :platforms => :ruby
+gem 'sqlite3', '~> 1.3.9', :platforms => :ruby
 gem 'pry'
 
 # Hinting at development dependencies
